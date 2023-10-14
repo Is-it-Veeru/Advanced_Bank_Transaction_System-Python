@@ -4,20 +4,20 @@ Advanced_Bank Management System is a Python-based desktop application designed t
 
 Features and Functionality:
 
-  a. User Authentication:
+  User Authentication:
       Users can log in using their account number, name, and PIN.
       Invalid login attempts are handled, and appropriate error messages are displayed.
-  b. Account Creation:
+  Account Creation:
       Users can create new accounts by providing their name, opening credit, and PIN.
       Account numbers are automatically generated, and each account has a unique text file to store its information.
-  c. Deposit and Withdrawal:
+  Deposit and Withdrawal:
       Account holders can deposit and withdraw money from their accounts.
       Transactions are recorded in a transaction history file.
-  d. Check Balance:
+  Check Balance:
       Users can check their account balance, and the current balance is displayed on the GUI.
-  e. Transaction History:
+  Transaction History:
       Account holders can view their transaction history, including dates, credits, debits, and balances.
-  f. Logging Out:
+  Logging Out:
       Users can log out of their accounts securely.
-  g. Error Handling:
+  Error Handling:
       The system provides robust error handling to ensure data integrity and user-friendly error messages.
